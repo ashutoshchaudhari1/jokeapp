@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">joke app</string>
+    <string name="joke1">why did the chidken cross the road</string>
+    <string name="joke2">what did the mother buffalo say to her child when leaving him at preschool</string>
+    <string name="joke3">what is red and smells like blue paint?</string>
+    <string name="joke4">what do you call a bear with no ears?</string>
+    <string name="joke5">I\'m not lazy</string>
+    <string name="joke6">Never let a kiss fool you.</string>
+</resources>
